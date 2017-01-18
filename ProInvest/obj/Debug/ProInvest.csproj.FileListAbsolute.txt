@@ -1,0 +1,17 @@
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\bin\Debug\ProInvest.exe.config
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\bin\Debug\ProInvest.exe
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\bin\Debug\ProInvest.pdb
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.csprojResolveAssemblyReference.cache
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.Properties.Resources.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.csproj.GenerateResource.Cache
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.exe
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.pdb
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.MainForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.AuthRegForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.ProjectForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.ReportForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.csproj.ResolveComReference.cache
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.CompareForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.IrrChartForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.PopChartForm.resources
+C:\Users\Adilet\Desktop\ProInvest\ProInvest\obj\Debug\ProInvest.AboutProgAuth.resources
